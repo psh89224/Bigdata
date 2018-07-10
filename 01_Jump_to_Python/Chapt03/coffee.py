@@ -19,7 +19,7 @@ while True:
         elif money > 300:
             print("여기 거스름돈 %d 입니다." %(money-300))
             coffee = coffee -1
-        elif:
+        else:
             print("금액이 %d 모자랍니다." %(300-money))
             print("돈을 다시 돌려주고 커피를 주지않습니다")
 
